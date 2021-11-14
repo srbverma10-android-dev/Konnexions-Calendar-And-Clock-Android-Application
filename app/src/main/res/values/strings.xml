@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Konnexions Calendar And Clock Android Application</string>
+    <string name="open_Calendar">Open Calendar</string>
+    <string name="open_Clock">Open Clock</string>
 </resources>
