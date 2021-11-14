@@ -7,8 +7,8 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
-    lateinit var button1 : Button
-    lateinit var button2 : Button
+    private lateinit var button1 : Button
+    private lateinit var button2 : Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
