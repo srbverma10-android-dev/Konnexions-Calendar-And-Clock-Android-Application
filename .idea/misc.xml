@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Konnexions/Konnexions-Calendar-And-Clock-Android-Application/app/src/main/res/layout/activity_calendar.xml" value="0.1796875" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Konnexions/Konnexions-Calendar-And-Clock-Android-Application/app/src/main/res/layout/activity_clock.xml" value="0.1796875" />
-        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Konnexions/Konnexions-Calendar-And-Clock-Android-Application/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Konnexions/Konnexions-Calendar-And-Clock-Android-Application/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
       </map>
     </option>
   </component>
