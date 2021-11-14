@@ -1,5 +1,6 @@
 package com.sourabhverma.konnexionscalendarandclockandroidapplication
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -23,9 +24,13 @@ class MainActivity : AppCompatActivity() {
     private fun setOnClickListeners() {
         button1.setOnClickListener {
             Toast.makeText(this, "Opening Calendar", Toast.LENGTH_SHORT).show()
+            val openCalendarActivity = Intent(this, CalendarActivity::class.java)
+            startActivity(openCalendarActivity)
         }
         button2.setOnClickListener {
             Toast.makeText(this, "Opening Clock", Toast.LENGTH_SHORT).show()
+            val openCalendarActivity = Intent(this, ClockActivity::class.java)
+            startActivity(openCalendarActivity)
         }
     }
 
